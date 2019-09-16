@@ -1,4 +1,3 @@
-use_frameworks!
 
 platform :ios, '8.0'
 
@@ -10,4 +9,5 @@ target 'ZPBaiduMap_Example' do
 
     
   end
+
 end

@@ -1,0 +1,6 @@
+framework module ZPBaiduMap {
+  umbrella header "ZPBaiduMap-umbrella.h"
+
+  export *
+  module * { export * }
+}

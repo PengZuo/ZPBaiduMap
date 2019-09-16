@@ -1,0 +1,30 @@
+{
+  "name": "ZPBaiduMap",
+  "version": "0.1.0",
+  "summary": "百度地图",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/PengZuo/ZPBaiduMap",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zp_crash@163.com": "[zp_crash@163.com]"
+  },
+  "source": {
+    "git": "https://github.com/PengZuo/ZPBaiduMap.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZPBaiduMap/Classes/**/*",
+  "dependencies": {
+    "BaiduMapKit": [
+      "~> 4.2.0"
+    ],
+    "BMKLocationKit": [
+      "~> 1.3.0.2"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ZPBaiduMap_Example' do
+  pod 'ZPBaiduMap', :path => '../'
+
+  target 'ZPBaiduMap_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
